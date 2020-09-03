@@ -1,0 +1,19 @@
+{
+  "name": "exercicio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jafet6/exercicioCatchUp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jafet6/exercicioCatchUp/issues"
+  },
+  "homepage": "https://github.com/Jafet6/exercicioCatchUp#readme"
+}
